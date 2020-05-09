@@ -1,4 +1,5 @@
-# Covid-19-Country-Graphs
+# Covid-19-Country-Graphs  
+- These graphs are updated every day.  
 ## Resource  
 - https://github.com/owid/covid-19-data/tree/master/public/data  
 ## Disclaimer:  
